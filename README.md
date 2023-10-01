@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Neural Network, TensorFlow**
 
-- 💬 Ask me about **NLP,Machine Learning and Data Analytics**
+- 💬 Ask me about **NLP, Machine Learning and Data Analytics**
 
 - 📫 How to reach me **achintyashri2202@gmail.com**
 
