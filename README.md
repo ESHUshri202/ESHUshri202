@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Achintya Shrivastava</h1>
 <h3 align="center">Data Analyst || Front-End Developer</h3>
 
-- 🔭 I’m currently working on **Event Tracking System**
+- 🔭 I’m currently working on **ETL Tools**
 
-- 🌱 I’m currently learning **Neural Network, TensorFlow**
+- 🌱 I’m currently learning **Front-End Development**
 
 - 💬 Ask me about **NLP, Machine Learning and Data Analytics**
 
