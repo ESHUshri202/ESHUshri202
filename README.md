@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **achintyashri2202@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GCjePJGixGbCVkZisEepLJl4mqX9Ga6D/view?usp=sharing](https://drive.google.com/file/d/1uYIgmW5uLNR4mFgu0UN7RhjiVNe4dpZF/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1hXq1o4KRAwh1_ONKl9MrkVx4U0UUV6ul/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
