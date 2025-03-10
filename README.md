@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Achintya Shrivastava</h1>
 <h3 align="center">Data Analyst || Front-End Developer</h3>
 
-- 🔭 I’m currently working on **MySQL**
+- 🔭 I’m currently working on **Skill Development**
 
-- 🌱 I’m currently learning **Front-End Development**
+- 🌱 I’m currently learning **Backend Developement**
 
 - 💬 Ask me about **NLP, Machine Learning and Data Analytics**
 
