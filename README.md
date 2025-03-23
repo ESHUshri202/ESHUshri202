@@ -11,8 +11,13 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1hXq1o4KRAwh1_ONKl9MrkVx4U0UUV6ul/view?usp=sharing]
 
-<h3>Github Trophies</h3>
-![](https://github-profile-trophy.vercel.app/?username=ESHUshri202&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ESHUshri202&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ESHUshri202&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ESHUshri202&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ESHUshri202&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 <h3 align="left">Connect with me:</h3>
